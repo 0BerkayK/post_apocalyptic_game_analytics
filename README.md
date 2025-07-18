@@ -58,7 +58,7 @@ Dashboard, aşağıdaki 5 temel metrik sayfasından oluşmaktadır:
 ---
 📊 Dashboard'u İncele
 
-[https://public.tableau.com/views/Post-ApocalypticGameKPIDashboard/Post-ApocalypticGameKPIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+📌 [🖥️ Dashboard](https://public.tableau.com/views/Post-ApocalypticGameKPIDashboard/Post-ApocalypticGameKPIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📁 Klasör Yapısı
 
