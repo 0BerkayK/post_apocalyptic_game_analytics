@@ -15,6 +15,15 @@ A/B testleriyle ürün kararlarını desteklemek
 
 amaçlarıyla kullanılabilecek analitik modellerin örneklemesini sunar.
 
+🧰 Kullanılan Teknolojiler
+Python (Pandas, NumPy)
+
+Tableau Desktop (Dashboard)
+
+Jupyter Notebook (Veri analizi & EDA)
+
+Simülasyon verisi (gerçeğe uygun kurgulanmış veri setleri)
+
 ---
 
 ## 📊 Dashboard Özeti
@@ -47,6 +56,9 @@ Dashboard, aşağıdaki 5 temel metrik sayfasından oluşmaktadır:
 - Conversion ve kullanıcı başına gelir (RPU) farkları
 
 ---
+📊 Dashboard'u İncele
+
+[https://public.tableau.com/views/Post-ApocalypticGameKPIDashboard/Post-ApocalypticGameKPIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## 📁 Klasör Yapısı
 
