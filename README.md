@@ -2,6 +2,19 @@
 
 Bu proje, bir mobil hayatta kalma oyununa ait kullanıcı davranışları, monetizasyon ve A/B test performanslarının analiz edildiği uçtan uca bir veri analitiği çözümüdür. Projede kullanılan veriler simülasyonla oluşturulmuş olup, oyuncu davranışları, gelir modelleri ve kullanıcı kazanım kanallarının performansı Tableau ile görselleştirilmiştir.
 
+🎯 Hedef
+Bu proje, mobil oyun şirketlerinde:
+
+Oyun içi kullanıcı davranışlarını anlamak
+
+Gelir artırıcı stratejileri belirlemek
+
+Hedefli kullanıcı edinim kampanyaları planlamak
+
+A/B testleriyle ürün kararlarını desteklemek
+
+amaçlarıyla kullanılabilecek analitik modellerin örneklemesini sunar.
+
 ---
 
 ## 📊 Dashboard Özeti
