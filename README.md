@@ -72,8 +72,6 @@ Dashboard, aşağıdaki 5 temel metrik sayfasından oluşmaktadır:
 ├── dashboards/
 │   └── KPI_Dashboard.twbx
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_KPI_Tracking.ipynb
 │   ├── 03_Attribution_Analysis.ipynb
 │   └── 04_AB_Test_Analysis.ipynb
 ├── scripts/
